@@ -3,4 +3,8 @@ The AD dataset used in [BRANT: A Versatile and Extendable Brainnetome fMRI Toolk
 
 * Please contact Prof. Yong Liu (yongliu@bupt.edu.cn) for the usage of the dataset.
 * [Download](https://pan.baidu.com/s/1o6CAJtiPXdmusCscVv-C0g): code: Brat
+
+
+Or you can use the following link 
+
 * ![Download Example Data Here](https://github.com/YongLiuLab/Brant-Example-Data-AD/blob/master/BrantData.jpg) 
